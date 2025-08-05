@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Aug 05 10:50:58 BRT 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0198-7a7f-e424-000001c47d28 
+on database directory /home/robson/curso_spark_pyspark_udemy/Pratica/Spark-SQL/metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 
+Loaded from file:/home/robson/venvs/spark/lib/python3.12/site-packages/pyspark/jars/derby-10.16.1.1.jar
+java.vendor=Ubuntu
+java.runtime.version=21.0.8+9-Ubuntu-0ubuntu124.04.1
+user.dir=/home/robson/curso_spark_pyspark_udemy/Pratica/Particionamento
+os.name=Linux
+os.arch=amd64
+os.version=6.6.87.2-microsoft-standard-WSL2
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
