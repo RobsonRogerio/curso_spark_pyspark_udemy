@@ -1,9 +1,8 @@
 from pyspark.sql import SparkSession
-import os
 
 def get_spark_session(app_name):
-    warehouse_location = "/home/robson/curso_spark_pyspark_udemy/Pratica/Spark-SQL/spark-warehouse"
-    metastore_path = "/home/robson/curso_spark_pyspark_udemy/Pratica/Spark-SQL/metastore_db"
+    warehouse_location = "/home/robson/curso_spark_pyspark_udemy/spark-warehouse"
+    metastore_path = "/home/robson/curso_spark_pyspark_udemy/metastore_db"
 
     spark = SparkSession.builder \
         .appName(app_name) \

@@ -1,4 +1,34 @@
+# 🧪 Arquivos e pastas gerados por Spark e Hive
+metastore_db/
+metastore_db.log
+spark-warehouse/
+*.dat
+*.crc
+_SUCCESS
+
+# 📓 Jupyter Notebooks
+.ipynb_checkpoints/
+
+# 🐍 Cache e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+
+# 📦 Ambientes virtuais (caso você use no futuro)
+.env/
+.venv/
+venv/
+ENV/
+
+# 📁 Arquivos específicos do seu projeto
 *.pdf
 *.Identifier
 *.csv
 temp/
+*.log
+
+# 🛠️ Configurações de editores
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
